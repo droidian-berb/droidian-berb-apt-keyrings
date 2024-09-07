@@ -1,0 +1,7 @@
+debian/.debhelper/
+debian/debhelper-build-stamp
+debian/files
+debian/droidian-berb-apt-keyrings.substvars
+debian/droidian-berb-apt-keyrings/
+out-droidian-berb-apt-keyrings/
+
