@@ -1,6 +1,6 @@
-droidian-berb-apt-keyrings (1+git20240908004142.35d9da0.trixie) trixie; urgency=medium
+droidian-berb-apt-keyrings (2+git20240908031311.9e0f9b0.trixie) trixie; urgency=medium
 
   [berbascum]
-  * (35d9da0) (pkg_rootfs) add: package files 
+  * (9e0f9b0) Regenerate gpg key 
 
- -- berbascum <berbascum@ticv.cat>  Sun, 08 Sep 2024 00:41:42 +0200
+ -- berbascum <berbascum@ticv.cat>  Sun, 08 Sep 2024 03:13:11 +0200
