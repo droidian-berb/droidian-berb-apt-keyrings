@@ -1,6 +1,8 @@
-droidian-berb-apt-keyrings (2+git20240908031311.9e0f9b0.trixie) trixie; urgency=medium
+droidian-berb-apt-keyrings (3+git20241127083813.7d2f441.trixie) trixie; urgency=medium
 
   [berbascum]
+  * (7d2f441) (gpg) pubkey: update the public key 
+  * (3724980) Build release: pre-configs before building new version 2-trixie 
   * (9e0f9b0) Regenerate gpg key 
 
- -- berbascum <berbascum@ticv.cat>  Sun, 08 Sep 2024 03:13:11 +0200
+ -- berbascum <berbascum@ticv.cat>  Wed, 27 Nov 2024 08:38:13 +0100
